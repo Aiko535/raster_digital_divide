@@ -1,0 +1,8 @@
+rasterio
+numpy
+matplotlib
+scipy
+seaborn
+pandas
+jupyter
+notebook
